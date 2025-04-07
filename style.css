@@ -1,3 +1,6 @@
+
+
+
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 /* font-family: 'Playfair Display', serif;
 font-family: 'Poppins', sans-serif; */
@@ -6,8 +9,8 @@ body {
     font-family: 'Poppins', sans-serif;
     text-rendering: optimizeLegibility !important;
     background: #f3f3f5;
+    overflow-x: hidden;
 }
-//hello//
 
 .body-fixed {
     position: fixed;
@@ -617,6 +620,19 @@ p {
     position: relative;
 } */
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 .sec-sub-title {
     text-transform: uppercase;
     display: inline-block;
@@ -692,6 +708,15 @@ p {
     color: #bfbfbf;
 } */
 
+
+
+
+
+
+
+
+
+
 /* ****** scrollbar design ******** */
 
 ::-webkit-scrollbar {
@@ -710,6 +735,19 @@ p {
 ::-webkit-scrollbar-thumb:hover {
     background: #0449f9;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* **************** */
 
@@ -899,6 +937,27 @@ p {
     background: linear-gradient(145deg, #e3a92b, #ffc933);
 } */
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* ************ */
 
 .xxl-title {
@@ -1061,6 +1120,23 @@ p {
     width: 30px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* *************** */
 
 .team-slider {
@@ -1130,6 +1206,21 @@ p {
 .social-icon ul li a:hover i {
     color: #ffffff !important;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* *************** */
 
@@ -1233,6 +1324,22 @@ p {
     }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* *********** */
 
 .faq-row {
@@ -1310,6 +1417,22 @@ p {
     transform: scale(1.03);
 } */
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* ************************ */
 
 .newsletter-box {
@@ -1372,6 +1495,19 @@ p {
 .sec-btn.primary-btn:hover {
     background: linear-gradient(145deg, #0c0c21, #0e0e28);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* ***************** footer ****************** */
 
