@@ -80,7 +80,7 @@ $(document).ready(function ($) {
                         easing: "ease-in-out",
                     },
                     load: {
-                        filter: ".Snacks, .burger, .Beverages, .Deserts",
+                        filter: ".Mini_Snacks, .Snacks, .burger, .Beverages, .Deserts",
                     },
                 });
             },
