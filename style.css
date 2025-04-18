@@ -855,6 +855,15 @@ p {
     font-weight: bold;
 }
 
+.dish-info ul li p pre{
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+
+    font-weight: bold;
+}
+
+
 .dish-info ul li b {
     font-weight: bold;
 }
